@@ -1,10 +1,4 @@
 # Hello
 
 ## What programming languages I use:
-### I code in the following programming languages:
-1. C++
-2. C
-3. Python
-4. HTML
-5. CSS
-6. JavaScript
+![C++](https://img.sheilds.io/badge/C++-1-0024D6?logo=cplusplus)
